@@ -1,4 +1,8 @@
 hello every one
+<<<<<<< HEAD
 
 good morning
 
+=======
+gm
+>>>>>>> sample
